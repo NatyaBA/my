@@ -5,7 +5,7 @@
 
 .header {
     display: flex;
-    background-color:  rgb(33, 83, 177);;
+    background-color:  rgb(33, 83, 177);
     height: 100px;
     position: absolute;
     width: 100%;
@@ -17,8 +17,8 @@
 
 .logo .logo-image {
     width: 100px;
-
 }
+
 .nav-wrap {
     align-self: flex-end;
 }
